@@ -17,7 +17,7 @@ mod_303_10,mod303[10],taxes,base.ad
 mod_303_11,mod303[11],taxes,base.ad
 mod_303_12,mod303[12],taxes,base.ad
 mod_303_13,mod303[13],taxes,base.ad
-mod_303_14_sale,mod303[14]sale,taxes,base.ad
+mod_303_14_sale,mod303[14_sale],taxes,base.ad
 mod_303_14_purchase,mod303[14]purchase,taxes,base.ad
 mod_303_15,mod303[15]purchase,taxes,base.ad
 mod_303_16,mod303[16],taxes,base.ad

@@ -6,7 +6,7 @@
 
 {
     'name': 'Andorra - Accounting',
-    'version': '18.0.1.0.3',
+    'version': '18.0.1.0.4',
     'summary': 'PGCE, IGI, retencions IRPF i posicions fiscals (Andorra).',
     'author': 'Batista10',
     'website': 'https://www.batista10.cat',
