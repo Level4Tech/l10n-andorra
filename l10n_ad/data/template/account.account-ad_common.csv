@@ -134,7 +134,7 @@ account_common_465,Remuneracions pendents de pagament,Remuneracions pendents de 
 account_common_470,"Administracions públiques, deutor","Administracions públiques, deutor",4700,asset_current,True,
 account_common_472,"Administracions públiques, import indirecte suportat","Administracions públiques, import indirecte suportat",472,asset_current,False,
 account_common_473,"Administracions públiques, retencions i pagaments a compte per ISI","Administracions públiques, retencions i pagaments a compte per ISI",473,asset_current,True,
-account_common_475,"Administracions públiques, creditor","Administracions públiques, creditor",4750,liability_current,True,
+account_common_4750,"Administracions públiques, creditor","Administracions públiques, creditor",4750,liability_payable,True,True
 account_common_476,"Caixa Andorrana de Seguretat Social, creditors","Caixa Andorrana de Seguretat Social, creditors",476,liability_current,False,
 account_common_477,"Administracions públiques, impost indirecte repercutit","Administracions públiques, impost indirecte repercutit",477,liability_current,False,
 account_common_480,Despeses anticipades,Despeses anticipades,480,asset_current,False,

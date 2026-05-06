@@ -36,14 +36,14 @@ account_tax_template_s_retencions5,,True,Retenció 5%,,sale,Retencions a compte 
 ,,,,,,,,,,,,base,,refund,,100
 ,,,,,,,,,,,,tax,,refund,account_common_473,100
 account_tax_template_p_retencions5,,True,,,purchase,Retencions IRPF 5%,Retencions IRPF 5%,-5,percent,tax_group_retencions_5,,base,mod111[08],invoice,,100
-,,,,,,,,,,,,tax,mod111[09],invoice,account_common_475,100
+,,,,,,,,,,,,tax,mod111[09],invoice,account_common_4750,100
 ,,,,,,,,,,,,base,mod111[08],refund,,100
-,,,,,,,,,,,,tax,mod111[09],refund,account_common_475,100
+,,,,,,,,,,,,tax,mod111[09],refund,account_common_4750,100
 account_tax_template_s_retencions10,,True,Retenció 10%,,sale,Retencions a compte IRPF 10%,Retencions a compte IRPF 10%,-10,percent,tax_group_retencions_10,,base,,invoice,,100
 ,,,,,,,,,,,,tax,,invoice,account_common_473,100
 ,,,,,,,,,,,,base,,refund,,100
 ,,,,,,,,,,,,tax,,refund,account_common_473,100
 account_tax_template_p_retencions10,2,True,,,purchase,Retencions IRPF 10%,Retencions IRPF 10%,-10,percent,tax_group_retencions_10,,base,mod111[08],invoice,,100
-,,,,,,,,,,,,tax,mod111[09],invoice,account_common_475,100
+,,,,,,,,,,,,tax,mod111[09],invoice,account_common_4750,100
 ,,,,,,,,,,,,base,mod111[08],refund,,100
-,,,,,,,,,,,,tax,mod111[09],refund,account_common_475,100
+,,,,,,,,,,,,tax,mod111[09],refund,account_common_4750,100
