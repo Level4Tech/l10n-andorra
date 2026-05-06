@@ -1,0 +1,34 @@
+id,sequence,name,name@ca,auto_apply,vat_required,country_id,tax_ids/tax_src_id,tax_ids/tax_dest_id
+fp_general,1,Règim General,Règim General,True,True,base.ad,,
+fp_retencions5,,Retenció IRPF 5%,Retenció IRPF 5%,,,,account_tax_template_s_igi45,account_tax_template_s_igi45
+,,,,,,,account_tax_template_s_igi45,account_tax_template_s_retencions5
+,,,,,,,account_tax_template_s_igi25,account_tax_template_s_igi25
+,,,,,,,account_tax_template_s_igi25,account_tax_template_s_retencions5
+,,,,,,,account_tax_template_s_igi1,account_tax_template_s_igi1
+,,,,,,,account_tax_template_s_igi1,account_tax_template_s_retencions5
+,,,,,,,account_tax_template_p_igi45,account_tax_template_p_igi45
+,,,,,,,account_tax_template_p_igi45,account_tax_template_p_retencions5
+,,,,,,,account_tax_template_p_igi25,account_tax_template_p_igi25
+,,,,,,,account_tax_template_p_igi25,account_tax_template_p_retencions5
+,,,,,,,account_tax_template_p_igi1,account_tax_template_p_igi1
+,,,,,,,account_tax_template_p_igi1,account_tax_template_p_retencions5
+,,,,,,,account_tax_template_s_igi0,account_tax_template_s_igi0
+,,,,,,,account_tax_template_s_igi0,account_tax_template_s_retencions5
+,,,,,,,account_tax_template_p_igi0,account_tax_template_p_igi0
+,,,,,,,account_tax_template_p_igi0,account_tax_template_p_retencions5
+fp_retencions10,,Retenció IRPF 10%,Retenció IRPF 10%,,,,account_tax_template_s_igi45,account_tax_template_s_igi45
+,,,,,,,account_tax_template_s_igi45,account_tax_template_s_retencions10
+,,,,,,,account_tax_template_s_igi25,account_tax_template_s_igi25
+,,,,,,,account_tax_template_s_igi25,account_tax_template_s_retencions10
+,,,,,,,account_tax_template_s_igi1,account_tax_template_s_igi1
+,,,,,,,account_tax_template_s_igi1,account_tax_template_s_retencions10
+,,,,,,,account_tax_template_p_igi45,account_tax_template_p_igi45
+,,,,,,,account_tax_template_p_igi45,account_tax_template_p_retencions10
+,,,,,,,account_tax_template_p_igi25,account_tax_template_p_igi25
+,,,,,,,account_tax_template_p_igi25,account_tax_template_p_retencions10
+,,,,,,,account_tax_template_p_igi1,account_tax_template_p_igi1
+,,,,,,,account_tax_template_p_igi1,account_tax_template_p_retencions10
+,,,,,,,account_tax_template_s_igi0,account_tax_template_s_igi0
+,,,,,,,account_tax_template_s_igi0,account_tax_template_s_retencions10
+,,,,,,,account_tax_template_p_igi0,account_tax_template_p_igi0
+,,,,,,,account_tax_template_p_igi0,account_tax_template_p_retencions10

@@ -1,0 +1,49 @@
+id,sequence,active,description,invoice_label,type_tax_use,name,name@ca,amount,amount_type,tax_group_id,tax_scope,repartition_line_ids/repartition_type,repartition_line_ids/tag_ids,repartition_line_ids/document_type,repartition_line_ids/account_id,repartition_line_ids/factor_percent
+account_tax_template_s_igi45,0,True,,,sale,"IGI 4,5% Vendes","IGI 4,5% Vendes",4.5,percent,tax_group_igi_45,,base,mod303[07],invoice,,100
+,,,,,,,,,,,,tax,mod303[09],invoice,account_common_477,100
+,,,,,,,,,,,,base,mod303[14_sale],refund,,100
+,,,,,,,,,,,,tax,mod303[15]purchase,refund,account_common_477,100
+account_tax_template_p_igi45,0,True,,,purchase,"IGI 4,5% Compres","IGI 4,5% Compres",4.5,percent,tax_group_igi_45,,base,mod303[28],invoice,,100
+,,,,,,,,,,,,tax,mod303[29],invoice,account_common_472,100
+,,,,,,,,,,,,base,mod303[40],refund,,100
+,,,,,,,,,,,,tax,mod303[41],refund,account_common_472,100
+account_tax_template_s_igi25,,True,,,sale,"IGI 2,5% Vendes","IGI 2,5% Vendes",2.5,percent,tax_group_igi_25,,base,mod303[04],invoice,,100
+,,,,,,,,,,,,tax,mod303[06],invoice,account_common_477,100
+,,,,,,,,,,,,base,mod303[14_sale],refund,,100
+,,,,,,,,,,,,tax,mod303[15]purchase,refund,account_common_477,100
+account_tax_template_p_igi25,,True,,,purchase,"IGI 2,5% Compres","IGI 2,5% Compres",2.5,percent,tax_group_igi_25,,base,mod303[28],invoice,,100
+,,,,,,,,,,,,tax,mod303[29],invoice,account_common_472,100
+,,,,,,,,,,,,base,mod303[40],refund,,100
+,,,,,,,,,,,,tax,mod303[41],refund,account_common_472,100
+account_tax_template_s_igi1,,True,,,sale,IGI 1% Vendes,IGI 1% Vendes,1,percent,tax_group_igi_1,,base,mod303[01],invoice,,100
+,,,,,,,,,,,,tax,mod303[03],invoice,account_common_477,100
+,,,,,,,,,,,,base,mod303[14_sale],refund,,100
+,,,,,,,,,,,,tax,mod303[15]purchase,refund,account_common_477,100
+account_tax_template_p_igi1,,True,,,purchase,IGI 1% Compres,IGI 1% Compres,1,percent,tax_group_igi_1,,base,mod303[28],invoice,,100
+,,,,,,,,,,,,tax,mod303[29],invoice,account_common_472,100
+,,,,,,,,,,,,base,mod303[40],refund,,100
+,,,,,,,,,,,,tax,mod303[41],refund,account_common_472,100
+account_tax_template_s_igi0,,True,IGI 0%,,sale,IGI 0% Vendes,IGI 0% Vendes,0,percent,tax_group_igi_0,,base,mod303[61],invoice,,100
+,,,,,,,,,,,,tax,,invoice,,100
+,,,,,,,,,,,,base,mod303[61],refund,,100
+,,,,,,,,,,,,tax,,refund,,100
+account_tax_template_p_igi0,,True,,,purchase,IGI 0% Compres,IGI 0% Compres,0,percent,tax_group_igi_0,,base,,invoice,,100
+,,,,,,,,,,,,tax,,invoice,,100
+,,,,,,,,,,,,base,,refund,,100
+,,,,,,,,,,,,tax,,refund,,100
+account_tax_template_s_retencions5,,True,Retenció 5%,,sale,Retencions a compte IRPF 5%,Retencions a compte IRPF 5%,-5,percent,tax_group_retencions_5,,base,,invoice,,100
+,,,,,,,,,,,,tax,,invoice,account_common_473,100
+,,,,,,,,,,,,base,,refund,,100
+,,,,,,,,,,,,tax,,refund,account_common_473,100
+account_tax_template_p_retencions5,,True,,,purchase,Retencions IRPF 5%,Retencions IRPF 5%,-5,percent,tax_group_retencions_5,,base,mod111[08],invoice,,100
+,,,,,,,,,,,,tax,mod111[09],invoice,account_common_475,100
+,,,,,,,,,,,,base,mod111[08],refund,,100
+,,,,,,,,,,,,tax,mod111[09],refund,account_common_475,100
+account_tax_template_s_retencions10,,True,Retenció 10%,,sale,Retencions a compte IRPF 10%,Retencions a compte IRPF 10%,-10,percent,tax_group_retencions_10,,base,,invoice,,100
+,,,,,,,,,,,,tax,,invoice,account_common_473,100
+,,,,,,,,,,,,base,,refund,,100
+,,,,,,,,,,,,tax,,refund,account_common_473,100
+account_tax_template_p_retencions10,2,True,,,purchase,Retencions IRPF 10%,Retencions IRPF 10%,-10,percent,tax_group_retencions_10,,base,mod111[08],invoice,,100
+,,,,,,,,,,,,tax,mod111[09],invoice,account_common_475,100
+,,,,,,,,,,,,base,mod111[08],refund,,100
+,,,,,,,,,,,,tax,mod111[09],refund,account_common_475,100

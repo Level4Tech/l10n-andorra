@@ -5,32 +5,23 @@
 # Marc Tormo <marc@batista10.cat>
 
 {
-    "name" : "Andorra - Accounting",
-    "version" : "0.1",
-    "author" : "Batista10",
-    'category': 'Localization',
-    "description": """
-Andorra Comptes Comptables 
-==========================
+    'name': 'Andorra - Accounting',
+    'version': '18.0.1.0.0',
+    'author': 'Batista10',
+    'website': 'https://www.batista10.cat',
+    'countries': ['ad'],
+    'category': 'Accounting/Localizations/Account Charts',
+    'icon': '/account/static/description/l10n.png',
+    'description': """
+Localització comptable — Andorra
+==============================
 
-    * Creació de grups comptables
-    * Creació del Pla General Comptable
-    * Creació de taxes Andorranes (IGI, IRPF)
+    * Grups i pla general comptable (PGCE simplificat i complet)
+    * Taxes IGI i retencions IRPF (plantilles de repartiment)
 """,
-    "depends" : [
-        "account",
-        "base_iban",
-        "base_vat",
+    'depends': ['account', 'base_iban', 'base_vat'],
+    'data': [
+        'data/account.account.tag.csv',
     ],
-    "data" : [
-        'data/account_group.xml',
-        'data/account_chart_template_data.xml',
-        'data/account.account.template-common.csv',
-        'data/account.account.template-full.csv',
-        'data/account_chart_template_account_account_link.xml',
-        'data/account_data.xml',
-        'data/account_tax_data.xml',
-        'data/account_fiscal_position_template_data.xml',
-        'data/account_chart_template_configure_data.xml',
-    ],
+    'license': 'AGPL-3',
 }

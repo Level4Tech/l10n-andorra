@@ -1,0 +1,394 @@
+id,code_prefix_start,name,name@ca
+account_group_1,1,Finançament Bàsic,Finançament Bàsic
+account_group_10,10,Capital,Capital
+account_group_100,100,Capital social,Capital social
+account_group_101,101,Fons social,Fons social
+account_group_102,102,Capital,Capital
+account_group_108,108,Accions o participacions pròpies en situacions especials,Accions o participacions pròpies en situacions especials
+account_group_109,109,Accions o participacions pròpias per reducció de capital,Accions o participacions pròpias per reducció de capital
+account_group_11,11,Reserves,Reserves
+account_group_110,110,Prima d’emissió,Prima d’emissió
+account_group_112,112,Reserva legal,Reserva legal
+account_group_113,113,Reserves estatutàries,Reserves estatutàries
+account_group_114,114,Reserves voluntaries,Reserves voluntaries
+account_group_115,115,Reserves per accions pròpies,Reserves per accions pròpies
+account_group_116,116,Reserva de revaloració,Reserva de revaloració
+account_group_118,118,Aportacions de socis o propietaris,Aportacions de socis o propietaris
+account_group_119,119,Altres reserves,Altres reserves
+account_group_12,12,Resultats pendents d'aplicació,Resultats pendents d'aplicació
+account_group_120,120,Romanent,Romanent
+account_group_121,121,Resultats negatits d'exercicis anteriors,Resultats negatits d'exercicis anteriors
+account_group_129,129,Resultat del exercici,Resultat del exercici
+account_group_13,13,Subvencions i donacions,Subvencions i donacions
+account_group_130,130,Subvencions oficials de capital,Subvencions oficials de capital
+account_group_131,131,Donacions i llegats de capital,Donacions i llegats de capital
+account_group_132,132,"Altres subvencions, donacions i llegats","Altres subvencions, donacions i llegats"
+account_group_14,14,Provisions,Provisions
+account_group_141,141,Provisió per tributs,Provisió per tributs
+account_group_143,143,"Provisió per desmantelllament, retirament o rehabilitació de l'immobilitzat","Provisió per desmantelllament, retirament o rehabilitació de l'immobilitzat"
+account_group_145,145,Provisió per actuacions medioambientals,Provisió per actuacions medioambientals
+account_group_146,146,Provisión per altres responsabilitats,Provisión per altres responsabilitats
+account_group_16,16,Deutes a llarg termini amb parts vinculades,Deutes a llarg termini amb parts vinculades
+account_group_160,160,Deutes a llarg termini amb entitats de crèdit vinculades,Deutes a llarg termini amb entitats de crèdit vinculades
+account_group_161,161,"Proveïdors d’immobilitzat a llarg termini, parts vinculades","Proveïdors d’immobilitzat a llarg termini, parts vinculades"
+account_group_162,162,"Creditors per arrendament financer a llarg termini, parts vinculades","Creditors per arrendament financer a llarg termini, parts vinculades"
+account_group_163,163,Altres deutes a llarg termini amb parts vinculades,Altres deutes a llarg termini amb parts vinculades
+account_group_17,17,"Deutes a llarg termini per préstecs rebuts, emprèstits i altres conceptes","Deutes a llarg termini per préstecs rebuts, emprèstits i altres conceptes"
+account_group_170,170,Deutes a llarg termini amb entitats de crèdit,Deutes a llarg termini amb entitats de crèdit
+account_group_171,171,Deutes a llarg termini,Deutes a llarg termini
+account_group_173,173,Proveïdors d’immobilitzat a llarg termini,Proveïdors d’immobilitzat a llarg termini
+account_group_174,174,Creditors per arrendament financer a llarg termini,Creditors per arrendament financer a llarg termini
+account_group_175,175,Efectes a pagar a llarg termini,Efectes a pagar a llarg termini
+account_group_177,177,Obligaciones i bons,Obligaciones i bons
+account_group_179,179,Deutes representats en altres valors negociables,Deutes representats en altres valors negociables
+account_group_18,18,"Pasius per fiances, garanties i alters conceptes a llarg termini","Pasius per fiances, garanties i alters conceptes a llarg termini"
+account_group_180,180,Fiances rebues a llarg termini,Fiances rebues a llarg termini
+account_group_181,181,Bestretes rebudes per vendes o prestacions de serveis a llarg termini,Bestretes rebudes per vendes o prestacions de serveis a llarg termini
+account_group_185,185,Depòsits rebuts a llarg termini,Depòsits rebuts a llarg termini
+account_group_189,189,Garantías financeres a llarg termini,Garantías financeres a llarg termini
+account_group_19,19,Situacions transitòries de finançament,Situacions transitòries de finançament
+account_group_194,194,Capital emitido pendiente de inscripción,Capital emitido pendiente de inscripción
+account_group_2,2,Actiu no corrent,Actiu no corrent
+account_group_20,20,Immobilitzat intangible,Immobilitzat intangible
+account_group_200,200,Despeses d'establiment,Despeses d'establiment
+account_group_201,201,Investigació,Investigació
+account_group_202,202,Desenvolupament,Desenvolupament
+account_group_203,203,Concessions administratives,Concessions administratives
+account_group_204,204,Propietat industrial,Propietat industrial
+account_group_205,205,Fons de comerç,Fons de comerç
+account_group_206,206,Drets de traspàs,Drets de traspàs
+account_group_207,207,Aplicacions informàtiques,Aplicacions informàtiques
+account_group_208,208,Altre immobilitzat intangible,Altre immobilitzat intangible
+account_group_209,209,Bestretes per immobilitzat intangible,Bestretes per immobilitzat intangible
+account_group_21,21,Immobilitzat Tangible,Immobilitzat Tangible
+account_group_210,210,Terrenys i bens naturals,Terrenys i bens naturals
+account_group_211,211,Construccions,Construccions
+account_group_212,212,Instal·lacions tècniques,Instal·lacions tècniques
+account_group_213,213,Maquinària,Maquinària
+account_group_214,214,Utillatge,Utillatge
+account_group_215,215,Altres instal·lacions,Altres instal·lacions
+account_group_216,216,Mobiliari,Mobiliari
+account_group_217,217,Equips per a processos d'informació,Equips per a processos d'informació
+account_group_218,218,Elements de transport,Elements de transport
+account_group_219,219,Alter immobilitzat tangible,Alter immobilitzat tangible
+account_group_22,22,Inversions immobiliaries,Inversions immobiliaries
+account_group_220,220,Inversions en terrenys i béns naturales,Inversions en terrenys i béns naturales
+account_group_221,221,Inversions en construccions,Inversions en construccions
+account_group_23,23,Immobilitzat intangible en curs,Immobilitzat intangible en curs
+account_group_230,230,Adaptació de terrenys i bens naturals,Adaptació de terrenys i bens naturals
+account_group_231,231,Construccions en curs,Construccions en curs
+account_group_232,232,Instal·laciones tècniques en muntatge,Instal·laciones tècniques en muntatge
+account_group_233,233,Maquinària en muntatge,Maquinària en muntatge
+account_group_237,237,Equips per processos d'informació en muntatge,Equips per processos d'informació en muntatge
+account_group_238,238,Altre immobilitzat tangible en curs,Altre immobilitzat tangible en curs
+account_group_239,239,Bestretes per immobilitzat tangible,Bestretes per immobilitzat tangible
+account_group_24,24,Inversions financeres a llarg termini en parts vinculades,Inversions financeres a llarg termini en parts vinculades
+account_group_240,240,Participacions a llarg termini en parts vinculades,Participacions a llarg termini en parts vinculades
+account_group_241,241,Valors representatius de deute a llarg termini de parts vinculades,Valors representatius de deute a llarg termini de parts vinculades
+account_group_242,242,Crèdits a llarg termini a parts vinculades,Crèdits a llarg termini a parts vinculades
+account_group_25,25,Altres inversions financeres a llarg termini,Altres inversions financeres a llarg termini
+account_group_250,250,Inversions financeres a llarg termini en instruments de patrimoni,Inversions financeres a llarg termini en instruments de patrimoni
+account_group_251,251,Valors representatius de deute a llarg termini,Valors representatius de deute a llarg termini
+account_group_252,252,Crèdits a llarg termini,Crèdits a llarg termini
+account_group_253,253,Crèdits a llarg termini per alienació d'immobilitzat,Crèdits a llarg termini per alienació d'immobilitzat
+account_group_254,254,Crèdits a llarg termini al personal,Crèdits a llarg termini al personal
+account_group_258,258,Imposicions a llarg termini,Imposicions a llarg termini
+account_group_26,26,Fiances i depòsits constituïts a llarg termini,Fiances i depòsits constituïts a llarg termini
+account_group_260,260,Fiances constituïdes a llarg termini,Fiances constituïdes a llarg termini
+account_group_265,265,Depòsits constituïts a llarg termini,Depòsits constituïts a llarg termini
+account_group_28,28,Amortizació acumulada del immobilitzat,Amortizació acumulada del immobilitzat
+account_group_280,280,Amortizació acumulada del immobilitzat intangible,Amortizació acumulada del immobilitzat intangible
+account_group_281,281,Amortizació acumulada del immobilitzat tangible,Amortizació acumulada del immobilitzat tangible
+account_group_282,282,Amortizació acumulada de les inversions immobiliàries,Amortizació acumulada de les inversions immobiliàries
+account_group_29,29,Deteriorament de valor d'actius no corrents,Deteriorament de valor d'actius no corrents
+account_group_290,290,Deteriorament de valor de l'immobilitzat intangible,Deteriorament de valor de l'immobilitzat intangible
+account_group_291,291,Deteriorament de valor de l'immobilitzat tangible,Deteriorament de valor de l'immobilitzat tangible
+account_group_292,292,Deteriorament de valor de les inversions immobiliaries,Deteriorament de valor de les inversions immobiliaries
+account_group_293,293,Deteriorament de valor de participacions a llarg termini en parts vinculades,Deteriorament de valor de participacions a llarg termini en parts vinculades
+account_group_294,294,Deteriorament de valor de valors representatius de deute a llarg termini de parts vinculades,Deteriorament de valor de valors representatius de deute a llarg termini de parts vinculades
+account_group_295,295,Deteriorament de valor de crèdits a llarg termini a parts vinculades,Deteriorament de valor de crèdits a llarg termini a parts vinculades
+account_group_296,296,Deteriorament de valor de participacions en el patrimoni net a llarg termini,Deteriorament de valor de participacions en el patrimoni net a llarg termini
+account_group_297,297,Deteriorament de valor de valors representatius de deute a llarg termini,Deteriorament de valor de valors representatius de deute a llarg termini
+account_group_298,298,Deteriorament de valor de crèdits a llarg termini,Deteriorament de valor de crèdits a llarg termini
+account_group_3,3,Existències,Existències
+account_group_30,30,Comercials,Comercials
+account_group_300,300,Mercaderies A,Mercaderies A
+account_group_301,301,Mercaderies B,Mercaderies B
+account_group_31,31,Matèries primeres,Matèries primeres
+account_group_310,310,Matèries primeres A,Matèries primeres A
+account_group_311,311,Matèries primeres B,Matèries primeres B
+account_group_32,32,Altres aprovisionaments,Altres aprovisionaments
+account_group_320,320,Elements i conjunts incorporables,Elements i conjunts incorporables
+account_group_321,321,Combustibles,Combustibles
+account_group_322,322,Recanvis,Recanvis
+account_group_325,325,Materials diversos,Materials diversos
+account_group_326,326,Embalatges,Embalatges
+account_group_327,327,Envasos,Envasos
+account_group_328,328,Material d'oficina,Material d'oficina
+account_group_33,33,Productes en curs,Productes en curs
+account_group_330,330,Productes en curs A,Productes en curs A
+account_group_331,331,Productes en curs B,Productes en curs B
+account_group_34,34,Productes semiacabats,Productes semiacabats
+account_group_340,340,Productes semiacabats A,Productes semiacabats A
+account_group_341,341,Productes semiacabats B,Productes semiacabats B
+account_group_35,35,Productes acabats,Productes acabats
+account_group_350,350,Productes acabats A,Productes acabats A
+account_group_351,351,Productes acabats B,Productes acabats B
+account_group_36,36,"Subproductes, residus i materials recuperats","Subproductes, residus i materials recuperats"
+account_group_360,360,Subproductes A,Subproductes A
+account_group_361,361,Subproductes B,Subproductes B
+account_group_365,365,Residus A,Residus A
+account_group_366,366,Residus B,Residus B
+account_group_368,368,Materials recuperats A,Materials recuperats A
+account_group_369,369,Materials recuperats B,Materials recuperats B
+account_group_39,39,Deteriorament de valor de las existències,Deteriorament de valor de las existències
+account_group_390,390,Deteriorament de valor de las mercaderies,Deteriorament de valor de las mercaderies
+account_group_391,391,Deteriorament de valor de las materies primeres,Deteriorament de valor de las materies primeres
+account_group_392,392,Deteriorament de valor d'altres aprovisionaments,Deteriorament de valor d'altres aprovisionaments
+account_group_393,393,Deteriorament de valor de los productes en curs,Deteriorament de valor de los productes en curs
+account_group_394,394,Deteriorament de valor dels productes semiacabats,Deteriorament de valor dels productes semiacabats
+account_group_395,395,Deteriorament de valor dels productes acabats,Deteriorament de valor dels productes acabats
+account_group_396,396,"Deteriorament de valor dels subproductes, residus i materials recuperats","Deteriorament de valor dels subproductes, residus i materials recuperats"
+account_group_4,4,Creditors i deudors per operacions comerciales,Creditors i deudors per operacions comerciales
+account_group_40,40,Proveïdors,Proveïdors
+account_group_400,400,Proveïdors,Proveïdors
+account_group_401,401,"Proveïdors, efectes comercials a pagar","Proveïdors, efectes comercials a pagar"
+account_group_403,403,"Proveïdors, empreses del grup","Proveïdors, empreses del grup"
+account_group_404,404,"Proveïdors, empreses associades","Proveïdors, empreses associades"
+account_group_405,405,"Proveïdors, altres parts vinculades","Proveïdors, altres parts vinculades"
+account_group_406,406,Envases i embalatges a retornar a proveïdors,Envases i embalatges a retornar a proveïdors
+account_group_407,407,Bestretes a proveïdors,Bestretes a proveïdors
+account_group_41,41,Creditors diversos,Creditors diversos
+account_group_410,410,Creditors por prestacions de serveis,Creditors por prestacions de serveis
+account_group_411,411,"Creditors, efectes comercials a pagar","Creditors, efectes comercials a pagar"
+account_group_43,43,Clients,Clients
+account_group_430,430,Clients,Clients
+account_group_431,431,"Clients, efectes comercials a cobrar","Clients, efectes comercials a cobrar"
+account_group_432,432,"Clients, operacions de «factoring»","Clients, operacions de «factoring»"
+account_group_433,433,"Clients, empreses del grup","Clients, empreses del grup"
+account_group_434,434,"Clients, empreses associades","Clients, empreses associades"
+account_group_435,435,"Clients, altres empreses vinculadas","Clients, altres empreses vinculadas"
+account_group_436,436,Clients de cobrament dubtós,Clients de cobrament dubtós
+account_group_437,437,Envasos i embalatges a retornar per clients,Envasos i embalatges a retornar per clients
+account_group_438,438,Bestretes de clients,Bestretes de clients
+account_group_44,44,Deutors diversos,Deutors diversos
+account_group_440,440,Deutors,Deutors
+account_group_441,441,"Deutors, efectes comercials a cobrar","Deutors, efectes comercials a cobrar"
+account_group_446,446,Deutors de cobrament dubtós,Deutors de cobrament dubtós
+account_group_46,46,Personal,Personal
+account_group_460,460,Bestretes de remuneracions,Bestretes de remuneracions
+account_group_465,465,Remuneracions pendents de pagament,Remuneracions pendents de pagament
+account_group_466,466,Remuneracions mitjançant sistemes d'aportació definida pendents de pagament,Remuneracions mitjançant sistemes d'aportació definida pendents de pagament
+account_group_47,47,Administracions públiques,Administracions públiques
+account_group_470,470,"Administracions públiques, deutor","Administracions públiques, deutor"
+account_group_472,472,"Administracions públiques, impost indirecte suportat","Administracions públiques, impost indirecte suportat"
+account_group_473,473,"Administracions públiques, retencions i pagaments a compte per ISI","Administracions públiques, retencions i pagaments a compte per ISI"
+account_group_475,475,"Administracions públiques, creditor","Administracions públiques, creditor"
+account_group_476,476,"Caixa Andorrana de Seguretat Social, creditors","Caixa Andorrana de Seguretat Social, creditors"
+account_group_477,477,"Administracions públiques, impost indirecte repercutit","Administracions públiques, impost indirecte repercutit"
+account_group_48,48,Ajustaments per periodificació,Ajustaments per periodificació
+account_group_480,480,Despeses anticipades,Despeses anticipades
+account_group_485,485,Ingressos anticipats,Ingressos anticipats
+account_group_49,49,Deteriorament de valor de crèdits comercials i provisions a curt termini,Deteriorament de valor de crèdits comercials i provisions a curt termini
+account_group_490,490,Deteriorament de valor de crèdits per operacions comerciales,Deteriorament de valor de crèdits per operacions comerciales
+account_group_493,493,Deteriorament de valor de crèdits per operaciones comercials  amb parts vinculades,Deteriorament de valor de crèdits per operaciones comercials  amb parts vinculades
+account_group_499,499,Provisions per operacions comercials,Provisions per operacions comercials
+account_group_5,5,Comptes financers,Comptes financers
+account_group_50,50,"Emprèstits, deutes amb característiques especials i altres emissions anàlogues a curt termini","Emprèstits, deutes amb característiques especials i altres emissions anàlogues a curt termini"
+account_group_500,500,Obligacions i bons a curt termini,Obligacions i bons a curt termini
+account_group_505,505,Deutes representats en altres valors negociables a curt termini,Deutes representats en altres valors negociables a curt termini
+account_group_506,506,Interessos a curt termini d'emprèstits i altres emissions anàlogues,Interessos a curt termini d'emprèstits i altres emissions anàlogues
+account_group_51,51,Deutes a curt termini amb parts vinculades,Deutes a curt termini amb parts vinculades
+account_group_510,510,Deutes a curt termini amb entitats de crèdit vinculades,Deutes a curt termini amb entitats de crèdit vinculades
+account_group_511,511,"Proveïdors d'immobilitzat a curt termini, parts vinculades","Proveïdors d'immobilitzat a curt termini, parts vinculades"
+account_group_512,512,"Creditors per arrendament financer a curt termini, parts vinculades.","Creditors per arrendament financer a curt termini, parts vinculades."
+account_group_513,513,Altres deutes a curt termini amb parts vinculades,Altres deutes a curt termini amb parts vinculades
+account_group_514,514,Interessos a curt termini de deutes amb parts vinculades,Interessos a curt termini de deutes amb parts vinculades
+account_group_52,52,Deutes a curt termini per prèstecs rebuts i altres conceptes,Deutes a curt termini per prèstecs rebuts i altres conceptes
+account_group_520,520,Deutes a curt termini amb entitats de crèdit,Deutes a curt termini amb entitats de crèdit
+account_group_523,523,Proveïdors d'immobilitzat a curt termini,Proveïdors d'immobilitzat a curt termini
+account_group_524,524,Creditors per arrendament financer a curt termini,Creditors per arrendament financer a curt termini
+account_group_526,526,Dividend actiu a pagar,Dividend actiu a pagar
+account_group_527,527,Interessos a curt termini de deutes amb entidats de crèdit,Interessos a curt termini de deutes amb entidats de crèdit
+account_group_528,528,Altres deutes a curt termini,Altres deutes a curt termini
+account_group_529,529,Provisions a curt termini,Provisions a curt termini
+account_group_53,53,Inversions financeres a curt termini en parts vinculades,Inversions financeres a curt termini en parts vinculades
+account_group_530,530,Participacions a curt termini en parts vinculades,Participacions a curt termini en parts vinculades
+account_group_531,531,Crèdits i valors representatius de deute a curt termini de parts vinculades,Crèdits i valors representatius de deute a curt termini de parts vinculades
+account_group_533,533,Interessos a curt termini de crèdits i valors representatius de deute de parts vinculades,Interessos a curt termini de crèdits i valors representatius de deute de parts vinculades
+account_group_535,535,Dividend a cobrar d'inversions financeres en parts vinculades,Dividend a cobrar d'inversions financeres en parts vinculades
+account_group_54,54,Altres inversions financeres a curt termini,Altres inversions financeres a curt termini
+account_group_540,540,Inversions financeres a curt termini en instruments de patrimoni,Inversions financeres a curt termini en instruments de patrimoni
+account_group_541,541,Crèdits i valors representatius de deute a curt termini,Crèdits i valors representatius de deute a curt termini
+account_group_543,543,Crèdits a curt termini per alienació d'immobilitzat,Crèdits a curt termini per alienació d'immobilitzat
+account_group_544,544,Crèdits a curt termini al personal,Crèdits a curt termini al personal
+account_group_545,545,Dividend a cobrar,Dividend a cobrar
+account_group_546,546,Interessos a curt termini de crèdits i valors representatius de deutes,Interessos a curt termini de crèdits i valors representatius de deutes
+account_group_548,548,Imposicions a curt termini,Imposicions a curt termini
+account_group_55,55,Altres comptes no bancaris,Altres comptes no bancaris
+account_group_550,550,Titular de l'explotación,Titular de l'explotación
+account_group_551,551,Compte corrent amb socis i administradors,Compte corrent amb socis i administradors
+account_group_552,552,Compte corrient amb altres persones i entidats vinculades,Compte corrient amb altres persones i entidats vinculades
+account_group_554,554,Compte corrient amb unions temporals d'empreses i comunitats de bens,Compte corrient amb unions temporals d'empreses i comunitats de bens
+account_group_555,555,Partides pendents d'aplicació,Partides pendents d'aplicació
+account_group_556,556,Desemborsaments exigits sobre participacions en el patrimoni net,Desemborsaments exigits sobre participacions en el patrimoni net
+account_group_557,557,Dividend actiu a compte,Dividend actiu a compte
+account_group_56,56,Fiances i depòsits rebuts i constituïts a curt termini i ajustos per periodificació,Fiances i depòsits rebuts i constituïts a curt termini i ajustos per periodificació
+account_group_560,560,Fiances rebudes a curt termini,Fiances rebudes a curt termini
+account_group_561,561,Depòsits rebuts a curt termini,Depòsits rebuts a curt termini
+account_group_565,565,Fiances constituïdes a curt termini,Fiances constituïdes a curt termini
+account_group_566,566,Depòsits constituïts a curt termini,Depòsits constituïts a curt termini
+account_group_567,567,Interessos pagats per anticipat,Interessos pagats per anticipat
+account_group_568,568,Interessos cobrats per anticipat,Interessos cobrats per anticipat
+account_group_569,569,Garanties financeres a curt termini,Garanties financeres a curt termini
+account_group_57,57,Tresoreria,Tresoreria
+account_group_570,570,"Caixa, euros","Caixa, euros"
+account_group_571,571,"Caixa, moneda estrangera","Caixa, moneda estrangera"
+account_group_572,572,"Bancs i institucions de crèdit c/c vista, euros","Bancs i institucions de crèdit c/c vista, euros"
+account_group_573,573,"Bancs i institucions de crèdit c/c vista, moneda estrangera","Bancs i institucions de crèdit c/c vista, moneda estrangera"
+account_group_574,574,"Bancs i institucions de crèdit, comptes d'estalvi, euros","Bancs i institucions de crèdit, comptes d'estalvi, euros"
+account_group_575,575,"Bancs i institucions de crèdit, comptes d'estalvi, moneda estrangera","Bancs i institucions de crèdit, comptes d'estalvi, moneda estrangera"
+account_group_576,576,Inversions a curt termini de gran liquiditat,Inversions a curt termini de gran liquiditat
+account_group_58,58,Actius no corrents mantinguts per a la venda i actius i passius associats,Actius no corrents mantinguts per a la venda i actius i passius associats
+account_group_580,580,Immobilitzat,Immobilitzat
+account_group_581,581,Inversiones amb persones i entitats vinculades,Inversiones amb persones i entitats vinculades
+account_group_582,582,Inversions financeres,Inversions financeres
+account_group_583,583,"Existencies, deutors comercials i altres comptes a cobrar","Existencies, deutors comercials i altres comptes a cobrar"
+account_group_584,584,Altres actius,Altres actius
+account_group_585,585,Provisions,Provisions
+account_group_586,586,Deutes amb característiques especials,Deutes amb característiques especials
+account_group_587,587,Deutes amb persones i entitats vinculades,Deutes amb persones i entitats vinculades
+account_group_588,588,Creditors comercials i altres comptes a pagar,Creditors comercials i altres comptes a pagar
+account_group_589,589,Altres passius,Altres passius
+account_group_59,59,Deteriorament del valor d'inversions financeres a curt termini i d'actius no corrients mantinguts per a la venda,Deteriorament del valor d'inversions financeres a curt termini i d'actius no corrients mantinguts per a la venda
+account_group_593,593,Deteriorament de valor de participacions a curt termini en parts vinculades,Deteriorament de valor de participacions a curt termini en parts vinculades
+account_group_594,594,Deteriorament de valor de valors representatius de deute a curt termini de parts vinculades,Deteriorament de valor de valors representatius de deute a curt termini de parts vinculades
+account_group_595,595,Deteriorament de valor de crèdits a curt termini en parts vinculades,Deteriorament de valor de crèdits a curt termini en parts vinculades
+account_group_597,597,Deteriorament de valor de valores representativos de deute a curt termini,Deteriorament de valor de valores representativos de deute a curt termini
+account_group_598,598,Deteriorament de valor de crèdits a curt termini,Deteriorament de valor de crèdits a curt termini
+account_group_599,599,Deteriorament de valor d'actius no corrents mantinguts per a la venda,Deteriorament de valor d'actius no corrents mantinguts per a la venda
+account_group_6,6,Compres i despeses,Compres i despeses
+account_group_60,60,Compres,Compres
+account_group_600,600,Compres de mercaderies,Compres de mercaderies
+account_group_601,601,Compres de matèries primeres,Compres de matèries primeres
+account_group_602,602,Compres d'altres aprovisionaments,Compres d'altres aprovisionaments
+account_group_606,606,Descomptes sobre compres per pagament immediat,Descomptes sobre compres per pagament immediat
+account_group_607,607,Traballs realitzats per altres empreses,Traballs realitzats per altres empreses
+account_group_608,608,Devolucions de compres y operacions similars,Devolucions de compres y operacions similars
+account_group_609,609,Ràpels per compres,Ràpels per compres
+account_group_61,61,Variació d'existencies,Variació d'existencies
+account_group_610,610,Variació d'existencies de mercaderies,Variació d'existencies de mercaderies
+account_group_611,611,Variació d'existencies de matèries primeres,Variació d'existencies de matèries primeres
+account_group_612,612,Variació d'existencies d'altres aprovisionaments,Variació d'existencies d'altres aprovisionaments
+account_group_62,62,Serveis externs,Serveis externs
+account_group_620,620,Despeses en investigació i desenvolupament del exercici,Despeses en investigació i desenvolupament del exercici
+account_group_621,621,Arrendaments i cànons,Arrendaments i cànons
+account_group_622,622,Reparacions i conservació,Reparacions i conservació
+account_group_623,623,Serveis de professionals independents,Serveis de professionals independents
+account_group_624,624,Transports,Transports
+account_group_625,625,Primes d'assegurances,Primes d'assegurances
+account_group_626,626,Serveis bancaris i similars,Serveis bancaris i similars
+account_group_627,627,"Publicitat, propaganda i relacions públiques","Publicitat, propaganda i relacions públiques"
+account_group_628,628,Subministraments,Subministraments
+account_group_629,629,Altres serveis,Altres serveis
+account_group_63,63,Tributs,Tributs
+account_group_631,631,Altres tributos,Altres tributos
+account_group_64,64,Despeses de personal,Despeses de personal
+account_group_640,640,Sous i salaris,Sous i salaris
+account_group_641,641,Indemnitzacions,Indemnitzacions
+account_group_642,642,Caixa Andorrana de Seguretat Social a càrrec de l’empresari,Caixa Andorrana de Seguretat Social a càrrec de l’empresari
+account_group_643,643,Retribucions a llarg termini mitjançant sistemes d’aportació definida,Retribucions a llarg termini mitjançant sistemes d’aportació definida
+account_group_649,649,Altres despeses socials,Altres despeses socials
+account_group_65,65,Altres despeses de gestió,Altres despeses de gestió
+account_group_650,650,Pèrdues de crèdits comerciales incobrables,Pèrdues de crèdits comerciales incobrables
+account_group_659,659,Altres pèrdues en gestió corrent,Altres pèrdues en gestió corrent
+account_group_66,66,Despeses financeres,Despeses financeres
+account_group_660,660,Despeses financeres per actualizació de provisions,Despeses financeres per actualizació de provisions
+account_group_661,661,Interessos d'obligacions i bons,Interessos d'obligacions i bons
+account_group_662,662,Interessos de deutes,Interessos de deutes
+account_group_663,663,Pèrdues per valoració d'instruments financers pel seu valor raonable,Pèrdues per valoració d'instruments financers pel seu valor raonable
+account_group_664,664,Despeses por dividends d'accions o participacions considerades com passius financers,Despeses por dividends d'accions o participacions considerades com passius financers
+account_group_665,665,Interessos per descompte d'efectes i operacions de «factoring»,Interessos per descompte d'efectes i operacions de «factoring»
+account_group_666,666,Pèrdues en participacions i valors representatius de deute,Pèrdues en participacions i valors representatius de deute
+account_group_667,667,Pèrdues de crèdits no comercials,Pèrdues de crèdits no comercials
+account_group_668,668,Diferencies negatives de canvi,Diferencies negatives de canvi
+account_group_669,669,Altres despeses financeres,Altres despeses financeres
+account_group_67,67,Pèrdues procedents d'actius no corrents i despeses excepcionals,Pèrdues procedents d'actius no corrents i despeses excepcionals
+account_group_670,670,Pèrdues procedents del immobilitzat intangible,Pèrdues procedents del immobilitzat intangible
+account_group_671,671,Pèrdues procedents del immobilitzat tangible,Pèrdues procedents del immobilitzat tangible
+account_group_672,672,Pèrdues procedents de les inversions immobiliaries,Pèrdues procedents de les inversions immobiliaries
+account_group_673,673,Pèrdues procedents de participacions a llarg termini en parts vinculades,Pèrdues procedents de participacions a llarg termini en parts vinculades
+account_group_675,675,Pèrdues per operacions amb obligacions pròpies,Pèrdues per operacions amb obligacions pròpies
+account_group_678,678,Despeses excepcionals,Despeses excepcionals
+account_group_68,68,Dotacions per amortitzacions,Dotacions per amortitzacions
+account_group_680,680,Amortització del immobilitzat intangible,Amortització del immobilitzat intangible
+account_group_681,681,Amortització del immobilitzat tangible,Amortització del immobilitzat tangible
+account_group_682,682,Amortizació de las inversions immobiliaries,Amortizació de las inversions immobiliaries
+account_group_69,69,Pèrdues per deteriorament i altres dotacions,Pèrdues per deteriorament i altres dotacions
+account_group_690,690,Pèrdues per deteriorament del immobilitzat intangible,Pèrdues per deteriorament del immobilitzat intangible
+account_group_691,691,Pèrdues per deteriorament del immobilitzat tangible,Pèrdues per deteriorament del immobilitzat tangible
+account_group_692,692,Pèrdues per deteriorament de les inversions immobiliaries,Pèrdues per deteriorament de les inversions immobiliaries
+account_group_693,693,Pèrdues per deteriorament d'existències,Pèrdues per deteriorament d'existències
+account_group_694,694,Pèrdues per deteriorament de crèdits per operacions comercials,Pèrdues per deteriorament de crèdits per operacions comercials
+account_group_695,695,Dotación a la provisió per operacions comerciales,Dotación a la provisió per operacions comerciales
+account_group_696,696,Pèrdues per deteriorament de participacions i valors representatius de deute a llarg termini,Pèrdues per deteriorament de participacions i valors representatius de deute a llarg termini
+account_group_697,697,Pèrdues per deteriorament de crèdits a llarg termini,Pèrdues per deteriorament de crèdits a llarg termini
+account_group_698,698,Pèrdues per deteriorament de participacions i valors representatius de deute a curt termini,Pèrdues per deteriorament de participacions i valors representatius de deute a curt termini
+account_group_699,699,Pèrdues por deteriorament de crèdits a curt termini,Pèrdues por deteriorament de crèdits a curt termini
+account_group_7,7,Vendes i ingressos,Vendes i ingressos
+account_group_70,70,"Vendes de mercaderies, de producció pròpia, de serveis, etc","Vendes de mercaderies, de producció pròpia, de serveis, etc"
+account_group_700,700,Vendes de mercaderies,Vendes de mercaderies
+account_group_701,701,Vendes de productes acabats,Vendes de productes acabats
+account_group_702,702,Vendes de productes semiacabats,Vendes de productes semiacabats
+account_group_703,703,Vendes de subproductes i residus,Vendes de subproductes i residus
+account_group_704,704,Vendes d'envasos i embalatges,Vendes d'envasos i embalatges
+account_group_705,705,Prestacions de serveis,Prestacions de serveis
+account_group_706,706,Descomptes sobre vendes per pagament immediat,Descomptes sobre vendes per pagament immediat
+account_group_708,708,Devolucions de vendes i operacions similars,Devolucions de vendes i operacions similars
+account_group_709,709,Ràpels sobre vendes,Ràpels sobre vendes
+account_group_71,71,Variació d'existències,Variació d'existències
+account_group_710,710,Variació d'existències de productes en curs,Variació d'existències de productes en curs
+account_group_711,711,Variació d'existències de productes semiacabats,Variació d'existències de productes semiacabats
+account_group_712,712,Variació d'existències de productes acabats,Variació d'existències de productes acabats
+account_group_713,713,"Variació d'existencies de subproductes, residus i materials recuperats","Variació d'existencies de subproductes, residus i materials recuperats"
+account_group_73,73,Treballs realitzats per l'empresari,Treballs realitzats per l'empresari
+account_group_730,730,Treballs realitzats per a l'immobilitzat intangible,Treballs realitzats per a l'immobilitzat intangible
+account_group_731,731,Treballs realitzats per a l'immobilitzat tangible,Treballs realitzats per a l'immobilitzat tangible
+account_group_732,732,Treballs realizados en inversiones inmobiliarias,Treballs realizados en inversiones inmobiliarias
+account_group_733,733,Treballs realitzats per a l'immobilitzat tangible en curs,Treballs realitzats per a l'immobilitzat tangible en curs
+account_group_74,74,"Subvencions, donacions i llegats","Subvencions, donacions i llegats"
+account_group_740,740,"Subvencions, donacions i llegats a l'explotació","Subvencions, donacions i llegats a l'explotació"
+account_group_746,746,"Subvencions, donacions i llegats de capital transferits al resultat de l'exercici","Subvencions, donacions i llegats de capital transferits al resultat de l'exercici"
+account_group_747,747,"Altres subvencions, donacions i llegats transferits al resultat del exercici","Altres subvencions, donacions i llegats transferits al resultat del exercici"
+account_group_75,75,Altres ingressos de gestió,Altres ingressos de gestió
+account_group_752,752,Ingressos per arrendaments,Ingressos per arrendaments
+account_group_753,753,Ingressos de propietat industrial cedida en explotació,Ingressos de propietat industrial cedida en explotació
+account_group_754,754,Ingressos per comissions,Ingressos per comissions
+account_group_755,755,Ingressos per serveis al personal,Ingressos per serveis al personal
+account_group_759,759,Ingressos per serveis diversos,Ingressos per serveis diversos
+account_group_76,76,Ingressos financers,Ingressos financers
+account_group_760,760,Ingressos de participacions en instruments de patrimoni,Ingressos de participacions en instruments de patrimoni
+account_group_761,761,Ingressos de valorss representatius de deute,Ingressos de valorss representatius de deute
+account_group_762,762,Ingressos de crèdits,Ingressos de crèdits
+account_group_763,763,"Beneficis per venda, venciment o valoració d’instruments financers pel seu valor raonable","Beneficis per venda, venciment o valoració d’instruments financers pel seu valor raonable"
+account_group_766,766,Beneficis en participacions i valors representatius de deute,Beneficis en participacions i valors representatius de deute
+account_group_768,768,Diferències positives de canvi,Diferències positives de canvi
+account_group_769,769,Altres ingressos financers,Altres ingressos financers
+account_group_77,77,Beneficis procedents d'actius no corrents i ingressos excepcionals,Beneficis procedents d'actius no corrents i ingressos excepcionals
+account_group_770,770,Beneficis procedents de l'immobilitzat intangible,Beneficis procedents de l'immobilitzat intangible
+account_group_771,771,Beneficis procedents de l'immobilitzat tangible,Beneficis procedents de l'immobilitzat tangible
+account_group_772,772,Beneficis procedents de les inversions immobiliaries,Beneficis procedents de les inversions immobiliaries
+account_group_773,773,Beneficios procedents de participacions a llarg termini en parts vinculades,Beneficios procedents de participacions a llarg termini en parts vinculades
+account_group_775,775,Beneficis per operacions amb obligacions pròpies,Beneficis per operacions amb obligacions pròpies
+account_group_778,778,Ingressos excepcionals,Ingressos excepcionals
+account_group_79,79,Excés i aplicacions de provisions i de pèrdues per deteriorament,Excés i aplicacions de provisions i de pèrdues per deteriorament
+account_group_790,790,Reversió del deteriorament de l'immobilitzat intangible,Reversió del deteriorament de l'immobilitzat intangible
+account_group_791,791,Reversió del deteriorament de l'immobilitzat tangible,Reversió del deteriorament de l'immobilitzat tangible
+account_group_792,792,Reversió del deteriorament de les inversions immobiliàries,Reversió del deteriorament de les inversions immobiliàries
+account_group_793,793,Reversió del deteriorament d'existències,Reversió del deteriorament d'existències
+account_group_794,794,Reversió del deteriorament de crèdits per operacions comercials,Reversió del deteriorament de crèdits per operacions comercials
+account_group_795,795,Excés de provisions,Excés de provisions
+account_group_796,796,Reversió del deteriorament de participacions i valors representatius de deute a llarg termini,Reversió del deteriorament de participacions i valors representatius de deute a llarg termini
+account_group_797,797,Reversió del deteriorament de crèdits a llarg termini,Reversió del deteriorament de crèdits a llarg termini
+account_group_798,798,Reversió del deteriorament de participacions i valors representatius de deute a curt termini,Reversió del deteriorament de participacions i valors representatius de deute a curt termini
+account_group_799,799,Reversió del deteriorament de crèdits a curt termini,Reversió del deteriorament de crèdits a curt termini
