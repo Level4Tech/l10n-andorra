@@ -6,17 +6,18 @@
 
 {
     'name': 'Andorra - Accounting',
-    'version': '18.0.1.0.1',
-    'summary': 'Andorra: PGCE, IGI, retencions (localització comptable).',
+    'version': '18.0.1.0.3',
+    'summary': 'PGCE, IGI, retencions IRPF i posicions fiscals (Andorra).',
     'author': 'Batista10',
     'website': 'https://www.batista10.cat',
+    'countries': ['ad'],
     'category': 'Accounting/Localizations/Account Charts',
     'icon': '/account/static/description/l10n.png',
     'description': """
-Localització comptable - Andorra
-================================
+Localització comptable — Andorra
+=================================
 
-* Pla general comptable (simplificat i complet)
+* Plantilles de pla general comptable (PGCE simplificat i complet)
 * Plantilles d'impostos (IGI) i retencions (IRPF)
 * Posicions fiscals
 """,
@@ -29,6 +30,6 @@ Localització comptable - Andorra
         'data/account.account.tag.csv',
     ],
     'installable': True,
-    'application': True,
+    'application': False,
     'license': 'AGPL-3',
 }
