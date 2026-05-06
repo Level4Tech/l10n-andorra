@@ -29,6 +29,6 @@ Localització comptable - Andorra
         'data/account.account.tag.csv',
     ],
     'installable': True,
-    'application': False,
+    'application': True,
     'license': 'AGPL-3',
 }
