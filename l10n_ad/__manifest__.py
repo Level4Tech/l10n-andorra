@@ -7,6 +7,7 @@
 {
     'name': 'Andorra - Accounting',
     'version': '18.0.1.0.0',
+    'application': False,
     'author': 'Batista10',
     'website': 'https://www.batista10.cat',
     'countries': ['ad'],
